@@ -1,2 +1,2 @@
 # Azure-Data-engineering
-ETL project using synapse Analytics
+## ETL project using Azure Synapse Analytics
