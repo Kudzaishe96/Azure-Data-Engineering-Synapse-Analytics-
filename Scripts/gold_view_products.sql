@@ -1,4 +1,4 @@
--- This is auto-generated code
+-- Create a gold products view
 CREATE VIEW gold_products As
 SELECT
     ROW_NUMBER()OVER(ORDER BY d.prd_id) "product_key",
