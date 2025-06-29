@@ -1,4 +1,4 @@
--- This is auto-generated code
+-- Create a gold customer view
 CREATE VIEW gold_customer AS
 SELECT
    ROW_NUMBER() Over(ORDER BY b.cst_id ASC) "customer_key",
