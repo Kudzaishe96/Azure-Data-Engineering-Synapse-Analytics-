@@ -1,4 +1,4 @@
--- This is auto-generated code
+-- Create gold_sales view
 CREATE VIEW gold_sales AS
 SELECT
     s.sls_ord_num  "order_number",
