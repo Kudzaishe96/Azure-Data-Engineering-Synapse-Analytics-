@@ -54,7 +54,7 @@ EMR and CMR Data csv files uploaded in the Data Source
 ### Data Cleaning (Silver Layer)
 1. Create an App that you attach a read and write access role using the managed identity
 2. Use the app creadentials to attach it to the DataBricks application to connect to the Bronze Layer(pyspark code in Scripts folder)
-3. Load Data into the Silver layer by using Pyspark
+3. Load Data into the Silver layer by using Pyspark (silver_layer script file)
 4. Remove duplicates, null values and create three tables namely dim_products, dim_customer, facts_sales
 5. Store tables in the Silver layer as delta format
    
