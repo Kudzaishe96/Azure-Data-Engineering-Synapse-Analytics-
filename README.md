@@ -5,6 +5,7 @@
 ## Table Of Contents
 
 - [ Project Overview ](#Project-Overview)
+- [ Azure-Data-Engineering-Synapse-Analytics-Architecture ](#Azure-Data-Engineering-Synapse-Analytics-Architecture)
 - [ Data Source ](#Data-Source)
 - [ Tools ](#Tools)
 - [ Azure Resources ](#Azure-Resources)
@@ -16,6 +17,11 @@
 ### Project Overview
 
 This project seek to show the extraction of raw data into meaningfull sql views for data analytics 
+
+
+## Azure-Data-Engineering-Synapse-Analytics-Architecture
+![Synaspe Analytics data warehousing Architecture](https://github.com/user-attachments/assets/70d8a19e-a957-4864-97e7-4624faa9d435)
+
 
 
 ### Data Source
