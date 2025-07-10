@@ -73,6 +73,10 @@ EMR and CMR Data csv files uploaded in the Data Source
 1. Create a Serveless SQL Server in Azure Sysnapse Analytics.
 2. Create a Database called Datawarehouse
 3. Extract Delta data from the Silver layer using SQL and create gold_views namely customer ,products and sales gold views
+4. Use the relationships between the tables shown below for business use
+
+   ### *Gold Layer Schema*
+   <img width="781" height="558" alt="CRM   ERP Schema drawio" src="https://github.com/user-attachments/assets/8f9f516f-35cd-4184-886d-34c58acd296f" />
 
    
 
